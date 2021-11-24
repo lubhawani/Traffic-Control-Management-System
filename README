@@ -6,6 +6,3 @@ How to use the code:
 -Place a video file ("traffic.avi") in the same directory of executable file.
 -Run the code.
 -In "draw polygon" window choose four points in cw direction to select roi on the road. Press enter.
-
-How the code works?
-https://www.dropbox.com/s/9w3y6x9zibja179/smart_traffic_control.pdf
